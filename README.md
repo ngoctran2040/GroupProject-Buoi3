@@ -1,4 +1,4 @@
-
+Tran: chỉnh README test lần 2
 
 
 Dự án nhóm 3 - Git Practice (Trân)
