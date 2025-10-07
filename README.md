@@ -1,4 +1,8 @@
 
+
+
+Dự án nhóm 3 - Git Practice (Trân)
+ 42fe3f1 ( Tran: chỉnh README test)
 Group Project Buoi 3 Tran
 - Cập nhật dòng test tạo PR
 -test update thêm trong feature-tran
